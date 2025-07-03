@@ -25,3 +25,5 @@ Thumbs.db
 
 # TensorBoard logs (if any)
 logs/
+
+bfg-cleanup/
