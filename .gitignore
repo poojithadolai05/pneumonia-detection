@@ -1,0 +1,27 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+#dataset
+data/
+
+# Model files 
+*.h5
+*.keras
+
+# System files
+.DS_Store
+Thumbs.db
+
+# TensorBoard logs (if any)
+logs/
